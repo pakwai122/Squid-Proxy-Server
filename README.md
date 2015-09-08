@@ -1,4 +1,6 @@
-# Squid-Proxy-Server
+Squid-Proxy-Server
+-----------------
+```
 sudo su
 apt-get update
 apt-get upgrade -y
